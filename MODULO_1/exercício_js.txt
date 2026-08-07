@@ -1,0 +1,48 @@
+--Exercício 1
+
+const idade1 = 20;
+const idade2 = 25;
+
+console.log(idade1 > idade2);
+console.log(idade1 < idade2);
+console.log(idade1 >= idade2);
+console.log(idade1 <= idade2);
+console.log(idade1 == idade2);
+console.log(idade1 === idade2);
+console.log(idade1 !== idade2);
+
+--Exercício 2
+
+const x = 5;
+const y = 10;
+
+console.log(x > y);
+console.log(x < y);
+console.log(x >= y);
+console.log(x <= y);
+console.log(x == y);
+console.log(x === y);
+console.log(x !== y);
+
+--Exercício 3
+
+console.log(10 == "10")
+console.log(10 === "10")
+console.log(true == 1)
+console.log(true === 1)
+console.log(null == undefined)
+console.log(null === undefined)
+
+--Exercício 4
+
+const dataNascimento = new Date("2009-08-26");
+const ativo = true;
+
+//transformando 18 anos em milisegundos:
+const dezoito_anos_milisegundos = 18 * 365.25 * 24 * 60 * 60 * 1000;
+
+//comparando milisegundos com milisegundos
+const podeAcessar = (new Date() - dataNascimento) >= dezoito_anos_milisegundos && ativo;
+
+console.log(podeAcessar);
+
