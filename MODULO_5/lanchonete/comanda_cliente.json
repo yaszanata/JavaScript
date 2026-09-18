@@ -1,0 +1,15 @@
+{
+  "estabelecimento": "MC Donalds",
+  "cliente": {
+    "id": 2,
+    "nome": "Helena"
+  },
+  "itens": [
+    {
+      "item": "Quarteirão",
+      "quantidade": 6,
+      "subtotal": 180
+    }
+  ],
+  "total_pagar": 180
+}
