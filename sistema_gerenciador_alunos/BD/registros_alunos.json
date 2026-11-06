@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "matricula": "2026A01",
+        "nome": "CARLOS EDUARDO SILVA",
+        "turma": "3A",
+        "data": "2026-10-23",
+        "presente": true,
+        "motivoSaida": "BANHEIRO",
+        "minutosFora": 8,
+        "alertaTempo": false
+    },
+    {
+        "id": 2,
+        "matricula": "2026A02",
+        "nome": "YASMIN LUCIANA ZANATA",
+        "turma": "2B",
+        "data": "2026-08-06",
+        "presente": true,
+        "motivoSaida": "ENFERMARIA",
+        "minutosFora": 10,
+        "alertaTempo": false
+    },
+    {
+        "id": 3,
+        "matricula": "2026A03",
+        "nome": "HELENA OCTAVIANO PETRENIS",
+        "turma": "2B",
+        "data": "2026-11-10",
+        "presente": true,
+        "motivoSaida": "COORDENAÇÃO",
+        "minutosFora": 16,
+        "alertaTempo": true
+    }
+]
