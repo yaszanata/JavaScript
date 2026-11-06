@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "pet": "Mel",
+    "raca": "Shih-tzu",
+    "idade": 4,
+    "tutor": "Mariana Costa",
+    "diaAtendimento": "2026-09-01",
+    "valorGasto": 180
+  },
+  {
+    "id": 2,
+    "pet": "Thor",
+    "raca": "Golden Retriever",
+    "idade": 8,
+    "tutor": "Rafael Lima",
+    "diaAtendimento": "2026-09-02",
+    "valorGasto": 320
+  },
+  {
+    "id": 3,
+    "pet": "LUNA",
+    "raca": "VIRA-LATA",
+    "idade": 2,
+    "tutor": "ADRIANO IMPERADOR",
+    "diaAtendimento": "2026-09-03",
+    "valorGasto": 95
+  },
+  {
+    "id": 4,
+    "pet": "Bob",
+    "raca": "Poodle",
+    "idade": 11,
+    "tutor": "André Martins",
+    "diaAtendimento": "2026-09-04",
+    "valorGasto": 450
+  },
+  {
+    "id": 5,
+    "pet": "Nina",
+    "raca": "Persa",
+    "idade": 6,
+    "tutor": "Patrícia Alves",
+    "diaAtendimento": "2026-09-05",
+    "valorGasto": 210
+  },
+  {
+    "id": 6,
+    "pet": "Simba",
+    "raca": "Siamês",
+    "idade": 9,
+    "tutor": "Lucas Ribeiro",
+    "diaAtendimento": "2026-09-06",
+    "valorGasto": 275
+  },
+  {
+    "id": 7,
+    "pet": "Pipoca",
+    "raca": "Pinscher",
+    "idade": 3,
+    "tutor": "Fernanda Rocha",
+    "diaAtendimento": "2026-09-07",
+    "valorGasto": 120
+  },
+  {
+    "id": 8,
+    "pet": "Bela",
+    "raca": "Labrador",
+    "idade": 7,
+    "tutor": "Diego Ferreira",
+    "diaAtendimento": "2026-09-08",
+    "valorGasto": 360
+  },
+  {
+    "id": 9,
+    "pet": "Fred",
+    "raca": "Bulldog Francês",
+    "idade": 5,
+    "tutor": "Juliana Carvalho",
+    "diaAtendimento": "2026-09-09",
+    "valorGasto": 240
+  },
+  {
+    "id": 10,
+    "pet": "Mimi",
+    "raca": "Angorá",
+    "idade": 12,
+    "tutor": "Bruno Gomes",
+    "diaAtendimento": "2026-09-10",
+    "valorGasto": 410
+  },
+  {
+    "id": 11,
+    "pet": "Max",
+    "raca": "Pastor Alemão",
+    "idade": 1,
+    "tutor": "Aline Mendes",
+    "diaAtendimento": "2026-09-11",
+    "valorGasto": 160
+  },
+  {
+    "id": 12,
+    "pet": "Amora",
+    "raca": "Beagle",
+    "idade": 8,
+    "tutor": "Thiago Barros",
+    "diaAtendimento": "2026-09-12",
+    "valorGasto": 295
+  },
+  {
+    "id": 13,
+    "pet": "Cacau",
+    "raca": "Vira-lata",
+    "idade": 10,
+    "tutor": "Renata Dias",
+    "diaAtendimento": "2026-09-13",
+    "valorGasto": 330
+  },
+  {
+    "id": 15,
+    "pet": "Kiara",
+    "raca": "Maine Coon",
+    "idade": 3,
+    "tutor": "Beatriz Freitas",
+    "diaAtendimento": "2026-09-15",
+    "valorGasto": 220
+  },
+  {
+    "id": 16,
+    "pet": "Toby",
+    "raca": "Dachshund",
+    "idade": 13,
+    "tutor": "Marcelo Azevedo",
+    "diaAtendimento": "2026-09-16",
+    "valorGasto": 520
+  },
+  {
+    "id": 17,
+    "pet": "Lola",
+    "raca": "Border Collie",
+    "idade": 6,
+    "tutor": "Carolina Pinto",
+    "diaAtendimento": "2026-09-17",
+    "valorGasto": 280
+  },
+  {
+    "id": 18,
+    "pet": "Ozzy",
+    "raca": "Schnauzer",
+    "idade": 9,
+    "tutor": "Paulo Teixeira",
+    "diaAtendimento": "2026-09-18",
+    "valorGasto": 340
+  },
+  {
+    "id": 19,
+    "pet": "Fifi",
+    "raca": "Bichon Frisé",
+    "idade": 2,
+    "tutor": "Isabela Ramos",
+    "diaAtendimento": "2026-09-19",
+    "valorGasto": 150
+  },
+  {
+    "id": 20,
+    "pet": "Romeu",
+    "raca": "Ragdoll",
+    "idade": 7,
+    "tutor": "Gustavo Lopes",
+    "diaAtendimento": "2026-09-20",
+    "valorGasto": 260
+  },
+  {
+    "id": 21,
+    "pet": "Pérola",
+    "raca": "Vira-lata",
+    "idade": 12,
+    "tutor": "Zanata",
+    "diaAtendimento": "2026-11-02",
+    "valorGasto": 310
+  }
+]
